@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+*.swp
