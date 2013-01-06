@@ -28,7 +28,7 @@ Here's an example *Auth Hash* available in `request.env['omniauth.auth']`:
 ```ruby
 {
   "provider" => "everyplay",
-  "uid" => 12345678,
+  "uid" => 1,
   "info" => {
     "username" => "Nomon",
     "permalink" => "nomon",
@@ -66,7 +66,9 @@ Here's an example *Auth Hash* available in `request.env['omniauth.auth']`:
 ## Thanks & Credits
 
 [omniauth](https://github.com/intridea/omniauth)
+
 [omniauth-soundcloud](https://github.com/soundcloud/omniauth-soundcloud)
+
 [Matti Savolainen](https://github.com/Nomon)
 
 ## License
