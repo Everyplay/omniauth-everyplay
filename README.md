@@ -62,11 +62,12 @@ Here's an example *Auth Hash* available in `request.env['omniauth.auth']`:
   }
 }
 ```
+
 ## Thanks & Credits
 
 [omniauth](https://github.com/intridea/omniauth)
 [omniauth-soundcloud](https://github.com/soundcloud/omniauth-soundcloud)
-[Matti Savolainen](https://github.com/Nomon).
+[Matti Savolainen](https://github.com/Nomon)
 
 ## License
 
